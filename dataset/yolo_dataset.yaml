@@ -1,0 +1,5 @@
+train: C:\Users\user\ForStudy\Class\26_1\capstone\Capstone_Design\dataset\yolo_train.txt
+val:   C:\Users\user\ForStudy\Class\26_1\capstone\Capstone_Design\dataset\yolo_val.txt
+
+nc: 1
+names: ['pill']

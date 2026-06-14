@@ -1,0 +1,2218 @@
+{
+  "total_drugs": 100,
+  "light_color_overall": {
+    "전구색": 7200,
+    "주광색": 7200,
+    "주백색": 7200
+  },
+  "transparent_drug_count": 14,
+  "transparent_drugs": [
+    "K-013391",
+    "K-019882",
+    "K-024603",
+    "K-029603",
+    "K-029607",
+    "K-030590",
+    "K-031467",
+    "K-032980",
+    "K-035723",
+    "K-038171",
+    "K-038188",
+    "K-038216",
+    "K-038279",
+    "K-038400"
+  ],
+  "drugs": {
+    "K-000112": {
+      "dl_name_en": "Aronamin Gold Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "빨강": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "Aro-G"
+      ],
+      "print_back": [
+        "Aro-G"
+      ],
+      "json_count": 216
+    },
+    "K-000121": {
+      "dl_name_en": "Bonaling-A Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "BN분할선BN"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-000250": {
+      "dl_name_en": "Magmil Tab. 500mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "마크"
+      ],
+      "print_back": [
+        "마크"
+      ],
+      "json_count": 216
+    },
+    "K-000272": {
+      "dl_name_en": "Naxen Tab. 250mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "N250"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-000573": {
+      "dl_name_en": "Geworin Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "분홍": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "삼각형": 216
+      },
+      "print_front": [
+        "GR"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-000746": {
+      "dl_name_en": "Ursa Tab. 100mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "UDCA"
+      ],
+      "print_back": [
+        "D분할선W"
+      ],
+      "json_count": 216
+    },
+    "K-001029": {
+      "dl_name_en": "Brufen Tab. 400mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "마크"
+      ],
+      "print_back": [
+        "BR4"
+      ],
+      "json_count": 216
+    },
+    "K-001744": {
+      "dl_name_en": "Medilac-S Enteric Coated Cap.",
+      "custom_shape": "장용캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {
+        "하양": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "메디락S 5억생균"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-001866": {
+      "dl_name_en": "Almagel Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "YH"
+      ],
+      "print_back": [
+        "AMG"
+      ],
+      "json_count": 216
+    },
+    "K-002058": {
+      "dl_name_en": "Narfen Tab. 400mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "주황": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "NF"
+      ],
+      "print_back": [
+        "CD"
+      ],
+      "json_count": 216
+    },
+    "K-002240": {
+      "dl_name_en": "Ibufen Tab. 400mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "주황": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "TGIBS"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-003078": {
+      "dl_name_en": "Mucosten Cap. 100mg",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216
+      },
+      "color_class2": {
+        "하양": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "MK MU1"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-004378": {
+      "dl_name_en": "Tylenol Tab. 500mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "TYLENOL"
+      ],
+      "print_back": [
+        "500"
+      ],
+      "json_count": 216
+    },
+    "K-004490": {
+      "dl_name_en": "Panpyrin-T Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "PANT"
+      ],
+      "print_back": [
+        "분할선"
+      ],
+      "json_count": 216
+    },
+    "K-005165": {
+      "dl_name_en": "Almacid Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "ΛL"
+      ],
+      "print_back": [
+        "마크"
+      ],
+      "json_count": 216
+    },
+    "K-006731": {
+      "dl_name_en": "Almagent Tab. 500mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "Korus"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-007019": {
+      "dl_name_en": "Allegra Tab. 120mg",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "분홍": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "012---"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-007024": {
+      "dl_name_en": "Festal Plus Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "훼스탈PLUS"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-007822": {
+      "dl_name_en": "Festal Gold Tab.",
+      "custom_shape": "",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "FG"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-008837": {
+      "dl_name_en": "Ursa Complex Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216
+      },
+      "color_class2": {
+        "갈색": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "복합우루사"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-010140": {
+      "dl_name_en": "Aspirin Tab. 500mg Bayerkorea",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "마크"
+      ],
+      "print_back": [
+        "ASPIRIN0.5"
+      ],
+      "json_count": 216
+    },
+    "K-010446": {
+      "dl_name_en": "Vitamin C Tab. 1000mg Yuhan",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "1000"
+      ],
+      "print_back": [
+        "Y분할선H"
+      ],
+      "json_count": 216
+    },
+    "K-010448": {
+      "dl_name_en": "Cough-S Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "YH"
+      ],
+      "print_back": [
+        "CTS"
+      ],
+      "json_count": 216
+    },
+    "K-011354": {
+      "dl_name_en": "ADVIL TAB.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "주황": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "Advil"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-011676": {
+      "dl_name_en": "Digest Tab.",
+      "custom_shape": "장용정제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "연두": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "MTS"
+      ],
+      "print_back": [
+        "PC"
+      ],
+      "json_count": 216
+    },
+    "K-012249": {
+      "dl_name_en": "Women's Tylenol Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "TYME"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-012769": {
+      "dl_name_en": "Dr. Bearse Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "주황": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "닥터베아제"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-013391": {
+      "dl_name_en": "Coughstop Plus Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "주황": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "HM"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-013626": {
+      "dl_name_en": "Tylenol cold-S Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {},
+      "color_class2": {},
+      "drug_shape": {},
+      "print_front": [],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-013969": {
+      "dl_name_en": "Mucodaine Cap. 200mg",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "파랑": 216
+      },
+      "color_class2": {
+        "파랑": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "ETX MUD200"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-014179": {
+      "dl_name_en": "Aronamin C Plus Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "ARO-C"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-014274": {
+      "dl_name_en": "Beecom-C Ace Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "YH"
+      ],
+      "print_back": [
+        "B분할선A"
+      ],
+      "json_count": 216
+    },
+    "K-015770": {
+      "dl_name_en": "Erdo Cough Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216
+      },
+      "color_class2": {
+        "노랑": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "KBP ECC"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-016025": {
+      "dl_name_en": "Erdopect Cap. 300mg",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216
+      },
+      "color_class2": {
+        "노랑": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "WI ERD"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-016056": {
+      "dl_name_en": "Erdobron Cap. 300mg",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216
+      },
+      "color_class2": {
+        "노랑": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "KK ED"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-018208": {
+      "dl_name_en": "NORZYME CAP.",
+      "custom_shape": "장용캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {
+        "투명": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "25,000"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-019553": {
+      "dl_name_en": "Contac Gold Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "빨강": 216
+      },
+      "color_class2": {
+        "투명": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "YH CNT"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-019605": {
+      "dl_name_en": "Colgreen-A Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {
+        "주황": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "콜그린A------ 마크"
+      ],
+      "print_back": [
+        "ColgreenA---------"
+      ],
+      "json_count": 216
+    },
+    "K-019843": {
+      "dl_name_en": "Saridon-A Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "Saridon"
+      ],
+      "print_back": [
+        "Saridon"
+      ],
+      "json_count": 216
+    },
+    "K-019881": {
+      "dl_name_en": "Zyrtec Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "Z분할선Z"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-019882": {
+      "dl_name_en": "Advil Liqui-Gels Soft Cap.",
+      "custom_shape": "",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "Advil"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-022095": {
+      "dl_name_en": "ImpactaminTab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "주황": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "V-B"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-022759": {
+      "dl_name_en": "Weangel Tab.",
+      "custom_shape": "장용정제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "연두": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "WAG"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-022976": {
+      "dl_name_en": "MYVLAR",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-022977": {
+      "dl_name_en": "Minivlar 30",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-023015": {
+      "dl_name_en": "Aromin Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "ARO-M"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-023901": {
+      "dl_name_en": "C-Coldplus Cough Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {},
+      "color_class2": {},
+      "drug_shape": {},
+      "print_front": [],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-024603": {
+      "dl_name_en": "Coolssen Soft Capsule",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "청록": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "JI DB"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-024770": {
+      "dl_name_en": "Colmincold Cap.",
+      "custom_shape": "장용캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "주황": 216
+      },
+      "color_class2": {
+        "하양": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "CMC YJ"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-024854": {
+      "dl_name_en": "PENZAL-Q TAB.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "PenzalQ"
+      ],
+      "print_back": [
+        "분할선"
+      ],
+      "json_count": 216
+    },
+    "K-025189": {
+      "dl_name_en": "Mucopect Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "67C분할선67C"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-025268": {
+      "dl_name_en": "Buscopan Sugar-Coated Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "L71"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-025276": {
+      "dl_name_en": "Buscopan Plus Tab.",
+      "custom_shape": "",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "05B분할선05B"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-025458": {
+      "dl_name_en": "GNAL-N TAB",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216,
+        "빨강": 216
+      },
+      "color_class2": {
+        "하양": 216
+      },
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "N KYUNG DONG"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-025476": {
+      "dl_name_en": "Urs Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "SCP"
+      ],
+      "print_back": [
+        "US"
+      ],
+      "json_count": 216
+    },
+    "K-025500": {
+      "dl_name_en": "Pancotase Tab.",
+      "custom_shape": "장용정제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "연두": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "PCT"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-025791": {
+      "dl_name_en": "Nanomin Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "나노민"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-026298": {
+      "dl_name_en": "Disgeskan Tab.",
+      "custom_shape": "장용정제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "연두": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "DIS"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-026455": {
+      "dl_name_en": "CLARITYNE TAB.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "마크분할선10"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-026632": {
+      "dl_name_en": "Dulcolax-S Enteric Coating Tab.",
+      "custom_shape": "장용정제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "N47"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-027838": {
+      "dl_name_en": "Pansidil Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216
+      },
+      "color_class2": {
+        "노랑": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "판시딜 판시딜"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-027889": {
+      "dl_name_en": "Maxcare Alpha Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "SI MCα"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-027959": {
+      "dl_name_en": "Power Bone Soft Cap.",
+      "custom_shape": "",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "CGP PW"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-027961": {
+      "dl_name_en": "Q10 Up Gold Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "검정": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "HMC 17"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-027962": {
+      "dl_name_en": "Omecough-S Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {
+        "하양": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "CGP OMFC"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-027984": {
+      "dl_name_en": "Bone&D Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "IY 본엔디"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-028239": {
+      "dl_name_en": "",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "분홍": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "Caltrate"
+      ],
+      "print_back": [
+        "4D분할선600"
+      ],
+      "json_count": 216
+    },
+    "K-028245": {
+      "dl_name_en": "Cal D Up Chewable Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "HS"
+      ],
+      "print_back": [
+        "CLD"
+      ],
+      "json_count": 216
+    },
+    "K-028281": {
+      "dl_name_en": "Albu Gold Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "SNP BG"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-028387": {
+      "dl_name_en": "Impactamin Premium Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "VBP"
+      ],
+      "print_back": [
+        "분할선"
+      ],
+      "json_count": 216
+    },
+    "K-028397": {
+      "dl_name_en": "Cerattu Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "SNP CT"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-029603": {
+      "dl_name_en": "Modecol S Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "MODCD"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-029607": {
+      "dl_name_en": "Mode Cough S Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "파랑": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "MODCG"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-029751": {
+      "dl_name_en": "Rapicol Day&night Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {},
+      "color_class2": {},
+      "drug_shape": {},
+      "print_front": [],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-030085": {
+      "dl_name_en": "Beecom-C Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "분홍": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "B+C"
+      ],
+      "print_back": [
+        "YH"
+      ],
+      "json_count": 216
+    },
+    "K-030518": {
+      "dl_name_en": "Whituben C Plus Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "빨강": 216
+      },
+      "color_class2": {
+        "노랑": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "TAK WTCC"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-030590": {
+      "dl_name_en": "Evetouch Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "파랑": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "EVE"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-030850": {
+      "dl_name_en": "Bioflor 250 Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {
+        "하양": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "BOF 250"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-031282": {
+      "dl_name_en": "Glogate Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "KG"
+      ],
+      "print_back": [
+        "U1"
+      ],
+      "json_count": 216
+    },
+    "K-031387": {
+      "dl_name_en": "Chonsenvita Premium Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "ID·CP"
+      ],
+      "print_back": [
+        "분할선"
+      ],
+      "json_count": 216
+    },
+    "K-031467": {
+      "dl_name_en": "Iburoen Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "SK IBN"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-031974": {
+      "dl_name_en": "Megatrue Gold Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "Y분할선H"
+      ],
+      "print_back": [
+        "B-All"
+      ],
+      "json_count": 216
+    },
+    "K-032040": {
+      "dl_name_en": "Excol Cough Cap.",
+      "custom_shape": "",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216
+      },
+      "color_class2": {
+        "초록": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "엑스콜코프 엑스콜코프"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-032980": {
+      "dl_name_en": "Rapicol Nose Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "RPC Nose"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-032997": {
+      "dl_name_en": "B-max Gold Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "주황": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "BGT"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-034827": {
+      "dl_name_en": "Xcolcold F Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "빨강": 216
+      },
+      "color_class2": {
+        "빨강": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "엑스콜콜드 엑스콜콜드"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-035723": {
+      "dl_name_en": "Naxen Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "분홍": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "NAX"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-037501": {
+      "dl_name_en": "Centirex Advance Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "보라": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "T분할선7"
+      ],
+      "print_back": [
+        "C"
+      ],
+      "json_count": 216
+    },
+    "K-037988": {
+      "dl_name_en": "GAS AND FREE CHEW TAB",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "하양": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "GAS-F"
+      ],
+      "print_back": [
+        "분할선"
+      ],
+      "json_count": 216
+    },
+    "K-038171": {
+      "dl_name_en": "Facol C Cough Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "FAc-C"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-038188": {
+      "dl_name_en": "Facol C Nose Soft Tab.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "FAc-N"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-038216": {
+      "dl_name_en": "Floradine Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "D-WF"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-038243": {
+      "dl_name_en": "Ganegin Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "빨강": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "GNZ"
+      ],
+      "print_back": [
+        "마크"
+      ],
+      "json_count": 216
+    },
+    "K-038279": {
+      "dl_name_en": "Facol C Cold Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "빨강": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "Fac"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-038400": {
+      "dl_name_en": "EZN6 Strong Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "초록": 216,
+        "투명": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "EZN"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-038533": {
+      "dl_name_en": "Zenota A Cap.",
+      "custom_shape": "경질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "노랑": 216
+      },
+      "color_class2": {
+        "노랑": 216
+      },
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "제노타A 제노타A"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-038554": {
+      "dl_name_en": "Curax Tab.",
+      "custom_shape": "장용정제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "연두": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "C17"
+      ],
+      "print_back": [
+        "마크"
+      ],
+      "json_count": 216
+    },
+    "K-038614": {
+      "dl_name_en": "Mag-B gamma Soft Cap.",
+      "custom_shape": "연질캡슐제",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "장방형": 216
+      },
+      "print_front": [
+        "YHMag-Bγ"
+      ],
+      "print_back": [],
+      "json_count": 216
+    },
+    "K-038852": {
+      "dl_name_en": "Ninenine Tab.",
+      "custom_shape": "정제, 저작정",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "갈색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "타원형": 216
+      },
+      "print_front": [
+        "99"
+      ],
+      "print_back": [
+        "분할선"
+      ],
+      "json_count": 216
+    },
+    "K-044660": {
+      "dl_name_en": "Cabagin Kowa Alpha Tab.",
+      "custom_shape": "",
+      "light_color": {
+        "전구색": 72,
+        "주광색": 72,
+        "주백색": 72
+      },
+      "color_class1": {
+        "회색": 216
+      },
+      "color_class2": {},
+      "drug_shape": {
+        "원형": 216
+      },
+      "print_front": [
+        "KOWA α"
+      ],
+      "print_back": [],
+      "json_count": 216
+    }
+  }
+}

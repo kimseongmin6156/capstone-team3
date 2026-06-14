@@ -1,0 +1,147 @@
+# =========================================
+# 환경변수 / 비밀
+# =========================================
+.env
+.env.*
+*.env
+**/.env
+
+# =========================================
+# Python
+# =========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# 가상환경
+.venv/
+venv/
+env/
+ENV/
+application/Capenv/
+**/Capenv/
+
+# =========================================
+# 학습 모델 / 가중치 (대용량)
+# =========================================
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+checkpoints/
+runs/
+yolo*.pt
+
+# =========================================
+# 데이터셋 (대용량 / 라이선스)
+# =========================================
+dataset/166.약품식별_인공지능_개발을_위한_경구약제_이미지_데이터/
+dataset/cropped/
+dataset/cropped_backup/
+dataset/set_vectordb/
+dataset/yolo_train.txt
+dataset/yolo_val.txt
+
+# =========================================
+# 데이터베이스 / 사용자 데이터
+# =========================================
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# =========================================
+# 디버그 출력 (이미지)
+# =========================================
+debug_pipeline/*/
+debug_ocr/*/
+debug_opencv/*.png
+debug_opencv/*.jpg
+test_images/
+*.opencv_mask.png
+*_cnn_input.png
+*_ocr_in_*.png
+*_crop*.png
+*_raw.png
+*_preprocessed.png
+*_yolo_result.jpg
+wb_sample*.png
+
+# =========================================
+# Flutter
+# =========================================
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/pubspec.lock
+**/generated_plugin_registrant.dart
+
+# Flutter Web 빌드
+application/frontend/build/
+
+# Flutter iOS / macOS
+**/ios/Flutter/.last_build_id
+**/ios/Pods/
+**/macos/Pods/
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Flutter Android
+**/android/.gradle/
+**/android/local.properties
+**/android/app/build/
+**/android/captures/
+
+# Flutter Windows / Linux
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+
+# =========================================
+# IDE / OS
+# =========================================
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================================
+# Claude Code / 개인 작업 폴더
+# =========================================
+.claude/
+memory/
+backups/
+frontend_0605/
+
+# =========================================
+# 백업 파일 / 폴더
+# =========================================
+*.bak
+*_backup_*
+*backup*.yaml
+**/lib_backup_*/
+debug_pipeline/*.png
+debug_pipeline/*.jpg
+
+# =========================================
+# 기타
+# =========================================
+*.log
+*.tmp
+node_modules/
+.cache/
