@@ -176,8 +176,3 @@ python train_CNN/prepare_cnn.py && python train_CNN/train.py
 ## 라이선스
 
 학술/캡스톤 목적의 비공개 프로젝트입니다. AIHub 데이터셋 이용 약관에 따라 원본 이미지는 재배포하지 않습니다.
-
-## 만든 사람
-
-- 김성민 (AI 모델 / 백엔드 / 통합)
-- 노은찬 (프론트엔드 UI 디자인)
